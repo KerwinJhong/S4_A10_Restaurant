@@ -47,7 +47,7 @@ http://localhost:3000
 
 ## 專案內容
 + 餐廳所有清單
-![image](https://github.com/KerwinJhong/S4_A9_Restaurant/blob/master/Restaurant.png)
+![image](https://github.com/KerwinJhong/S4_A10_Restaurant/blob/master/restaurant.png)
 
 
 ## 作者
